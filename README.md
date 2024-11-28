@@ -8,7 +8,6 @@ Why should you un-manage your work? You should use this snap-in if you want to r
 
 If your team’s best practice is to link your GitHub activity to an existing issue-ID during branch creation, commits and PRs, then this snap-in will honor that and enable a GitHub driven issue state, without auto creating issues. [Here](https://devrev.ai/docs/integrations/github#github-events) are the different ways you can link your DevRev issue to GitHub branches, commits and PRs.
 
-However, if you choose to work in GitHub and never created or linked an issue, you shouldn’t have to sweat it. This snap-in will automatically create issues that track all associated commits, branches and pull requests. The auto-created issue is enriched with PR description and related GitHub events. The status of these issues is driven by GitHub activity, and the issues will auto-transition stages, from In Development to In Review, and Closed. Your work is always accounted for and more importantly your team members have visibility and know what you’ve been up to, resulting in fewer interruptions.
 
 ## How it works
 
