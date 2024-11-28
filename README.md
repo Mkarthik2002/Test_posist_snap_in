@@ -14,7 +14,6 @@ To enable GitHub for DevRev, click on Install and we'll walk you through a few s
 
 ## Features
 
-This snap-in is powerful, and has several configurable features. As they say, the power is in the defaults! When you install this snap-in, we'll configure defaults that are tried and tested. You always have the option to personalize.
 
 **Automatic status updates**
 
