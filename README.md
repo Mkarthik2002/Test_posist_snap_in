@@ -10,7 +10,7 @@ If your team’s best practice is to link your GitHub activity to an existing is
 
 ## How it works
 
-To enable GitHub for DevRev, click on Install and we'll walk you through a few simple steps including connecting with GitHub. You'll have a default set of configuration settings and the option to further personalize this snap-in. Learn more about the features in this snap-in.
+To enable GitHub for DevRev, click on Install and we'll walk you through a few simple steps including connecting with GitHub. You'll have a default set of configuration settings and the option to further personalize this snap-in. Learn more  the features in this snap-in.
 
 ## Features
 
