@@ -1,6 +1,6 @@
 Connect GitHub with DevRev, and ensure your work stays in sync between the two systems, such that issues and statuses are always real-time and driven by code activity. GitHub for DevRev is a snap-in that has been used by several organizations, and ties DevRev issues closely with GitHub activity, eliminating the need for humans to manage issues.
 
-Why should you un-manage your work? You should use this snap-in if you want to reduce work about work. Let machines manage issues, including creating and updating statuses, so developers can focus on work that matters. You’ll resonate with this, if you have ever:
+Why should you un-manage your work? You should use this snap-in if you want to reduce work about work. Let machines manage issues, including creating and updating , so developers can focus on work that matters. You’ll resonate with this, if you have ever:
 
 - Delivered a hot-patch and realized you never had an issue to track 
 - Or just felt that creating and managing issues is a distractio
