@@ -4,7 +4,7 @@ Why should you un-manage your work? You should use this snap-in if you want to r
 
 - Delivered a hot-patch and realized you never had an issue to track 
 - Or just felt that creating and managing issues is a distractio
-If your team’s best practice is to link your GitHub activity to an existing issue-ID during branch creation, commits and PRs, then this snap-in will honor that and enable a GitHub driven issue state, without auto creating issues. [Here](https://devrev.ai/docs/integrations/github#github-events) are the  ways you can link your DevRev issue to GitHub branches, commits and PRs.
+If your team’s best practice is to link your GitHub activity to an existing issue-ID during  creation, commits and PRs, then this snap-in will honor that and enable a GitHub driven issue state, without auto creating issues. [Here](https://devrev.ai/docs/integrations/github#github-events) are the  ways you can link your DevRev issue to GitHub branches, commits and PRs.
 
 
 ## How it works
